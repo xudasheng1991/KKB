@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:21:36:38 +0800] "GET /MyServlet HTTP/1.1" 200 15 http-bio-80-exec-1 42
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:21:36:38 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-3 4
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:22:27:47 +0800] "GET /MyServlet HTTP/1.1" 200 15 http-bio-80-exec-1 51
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:22:27:55 +0800] "GET /queryUser HTTP/1.1" 404 969 http-bio-80-exec-3 3
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:22:28:10 +0800] "GET /saveUser HTTP/1.1" 404 967 http-bio-80-exec-4 1
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:22:29:31 +0800] "GET /queryUser HTTP/1.1" 200 32 http-bio-80-exec-1 98
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:22:29:35 +0800] "GET /saveUser HTTP/1.1" 200 31 http-bio-80-exec-3 4
